@@ -66,6 +66,7 @@ function onThemeChange() {
 //   }
 // }
 
+// не працює
 // function inLocaLeStorage() {
 //   const check = switcher.checked;
 
@@ -82,5 +83,3 @@ function onThemeChange() {
 //   body.classList.add(Theme.DARK);
 //   switcher.checked = true;
 // }
-
-// не працює
