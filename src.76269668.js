@@ -15,4 +15,4 @@ const e={LIGHT:"light-theme",DARK:"dark-theme"},t=document.querySelector("#theme
 },{}],"Focm":[function(require,module,exports) {
 "use strict";var e=t(require("./menu.json")),r=t(require("./templates/cardsTemplate.hbs")),u=t(require("./theme")),s=t(require("./markup"));function t(e){return e&&e.__esModule?e:{default:e}}require("./styles.css");
 },{"./menu.json":"mA8c","./templates/cardsTemplate.hbs":"cgCf","./theme":"m3VC","./markup":"EzL3","./styles.css":"Tnu0"}]},{},["Focm"], null)
-//# sourceMappingURL=/parcel-project-template/src.fc031aa9.js.map
+//# sourceMappingURL=/goit-js-hw-10-food/src.76269668.js.map
